@@ -1,6 +1,4 @@
 ## Olá, mundo! 
-
-##
 ✍🏻Estudante de Sistemas para Internet pelo SENAC.
 💻Focada no back-end.
 
