@@ -1,10 +1,10 @@
-Olá, mundo! 
+## Olá, mundo! 
 
 ##
 ✍🏻Estudante de Sistemas para Internet pelo SENAC.
-##
 💻Focada no back-end.
 
+##
 
 <div align="center">
   <a href="https://github.com/biapolegatti">
@@ -16,6 +16,7 @@ Olá, mundo!
   <a href="https://www.linkedin.com/in/bianca-polegatti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
+  ##
   
    <div style="display: inline_block"><br>
    <img align="center" height="110" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
