@@ -1,7 +1,7 @@
 ## Olá, mundo! 
 <p>✍🏻Estudante de Sistemas para Internet pelo SENAC. </p>
 <p>💻Focada no back-end. </p>
-<p>📍 São Paulo/SP</p>
+<p>📍 São Paulo/SP.</p>
 
 
 <div align="center">
