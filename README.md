@@ -1,4 +1,5 @@
-## Olá, mundo! 
+## Olá, mundo!
+<p> ⚖ Bacharel em Direito e ex-servidora pública estadual.</p>
 <p>✍🏻Estudante de Sistemas para Internet pelo SENAC. </p>
 <p>💻Focada no back-end. </p>
 <p>📍 São Paulo/SP.</p>
